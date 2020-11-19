@@ -10,7 +10,6 @@ import sys
 import time
 import tkinter as tk 
 import tkinter.ttk as ttk
-from zenlog import log
 from concurrent import futures
 
 thread_pool_executor = futures.ThreadPoolExecutor(max_workers=1)
