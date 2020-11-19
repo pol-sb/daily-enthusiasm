@@ -1,6 +1,4 @@
-## daily-enthusiasm
-
-# Prepare Gamess
+# Prepare GAMESS inputs (prepare_gamess.py)
 
 Reads geometry data from '.pdb' or '.log' files in the folder where the script is executed and allows to prepare input files from the calculation methods and basis sets specified in the file 'calc_methods.json'.
 
